@@ -14,6 +14,6 @@
 
     </head>
     <body class="antialiased">
-
+    <h1>HELLO {{$gretting}}</h1>
     </body>
 </html>
